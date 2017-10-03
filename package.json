@@ -14,7 +14,7 @@
     "exports-loader": "^0.6.4",
     "express": "^4.15.4",
     "express-force-ssl": "^0.3.2",
-    "file-loader": "^0.11.2",
+    "file-loader": "^1.1.0",
     "hsts": "^2.1.0",
     "imports-loader": "^0.7.1",
     "jquery": "^3.2.1",
