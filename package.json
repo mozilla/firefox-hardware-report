@@ -10,7 +10,7 @@
     "bootstrap-loader": "^2.2.0",
     "bootstrap-sass": "^3.3.7",
     "css-loader": "^0.28.7",
-    "d3": "^4.10.2",
+    "d3": "^4.11.0",
     "exports-loader": "^0.6.4",
     "express": "^4.15.4",
     "express-force-ssl": "^0.3.2",
