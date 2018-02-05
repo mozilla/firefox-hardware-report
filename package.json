@@ -11,7 +11,7 @@
     "bootstrap-sass": "^3.3.7",
     "css-loader": "^0.28.7",
     "d3": "^4.10.2",
-    "exports-loader": "^0.6.4",
+    "exports-loader": "^0.7.0",
     "express": "^4.15.4",
     "express-force-ssl": "^0.3.2",
     "file-loader": "^1.1.4",
