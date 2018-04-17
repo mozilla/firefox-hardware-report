@@ -3,7 +3,7 @@ var webpack = require('webpack');
 
 module.exports = {
   devtool: 'source-map',
-  entry: ['bootstrap-loader', './js/main.js'],
+  entry: ['bootstrap-loader', './static/js/main.js'],
   plugins: [
     new webpack.ProvidePlugin({
       $: "jquery",
@@ -11,8 +11,8 @@ module.exports = {
     }),
   ],
   output: {
-    path: path.join(__dirname, 'build', 'js'),
-    publicPath: path.resolve(__dirname, '/build/js/'),
+    path: path.join(__dirname, 'static', 'build', 'js'),
+    publicPath: path.resolve(__dirname, '/static/build/js/'),
     filename: 'bundle.js',
     sourceMapFilename: 'bundle.map.js'
   },

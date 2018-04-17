@@ -3,7 +3,7 @@
   "scripts": {
     "postinstall": "webpack",
     "start": "node server",
-    "local": "webpack-dev-server --progress --hot --port 3000"
+    "local": "webpack-dev-server --progress --hot --content-base static --port 3000"
   },
   "dependencies": {
     "bootstrap-loader": "2.2.0",

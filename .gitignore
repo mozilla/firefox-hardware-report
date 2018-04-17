@@ -5,7 +5,7 @@
 node_modules
 
 # Webpack
-build/
+static/build/
 
 # Data
 data/hwsurvey-FF43-Resolution.csv

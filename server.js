@@ -3,6 +3,7 @@ const forceSSL = require('express-force-ssl');
 const hsts = require('hsts');
 const morgan = require('morgan');
 const serveStatic = require('serve-static');
+const path = require('path');
 
 
 const app = express();
@@ -19,7 +20,7 @@ app.use(forceSSL);
 app.use(hsts());
 
 // Serve the static site
-app.use(serveStatic(__dirname));
+app.use(serveStatic(path.join(__dirname, 'static')));
 
 // Listen on port process.env.PORT
 app.listen(process.env.PORT, () => {
