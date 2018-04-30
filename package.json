@@ -20,7 +20,7 @@
     "jquery-ui": "1.12.1",
     "metrics-graphics": "2.14.0",
     "morgan": "1.9.0",
-    "node-sass": "4.8.3",
+    "node-sass": "4.9.0",
     "resolve-url-loader": "2.3.0",
     "sass-loader": "7.0.1",
     "style-loader": "0.21.0",
