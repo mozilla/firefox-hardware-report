@@ -6,7 +6,7 @@
     "local": "webpack-dev-server --progress --hot --content-base static --port 3000"
   },
   "dependencies": {
-    "bootstrap-loader": "2.2.0",
+    "bootstrap-loader": "3.0.0",
     "bootstrap-sass": "3.3.7",
     "css-loader": "0.28.11",
     "d3": "4.13.0",
