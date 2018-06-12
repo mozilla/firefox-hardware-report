@@ -8,6 +8,10 @@
 
 `npm run local`
 
+## Test
+
+`npm run test`
+
 # Servers
 
 * Staging: [https://hardware.metrics.allizom.org](https://hardware.metrics.allizom.org)
