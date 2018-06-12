@@ -4,7 +4,7 @@
     "postinstall": "webpack",
     "start": "node server",
     "local": "webpack-dev-server --progress --hot --content-base static --port 3000",
-    "posttest": "npm audit"
+    "posttest": "npm audit || true"
   },
   "dependencies": {
     "bootstrap-loader": "3.0.0",
