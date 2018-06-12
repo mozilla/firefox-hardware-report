@@ -10,7 +10,7 @@
 
 ## Test
 
-`npm run test`
+`npm test`
 
 # Servers
 
