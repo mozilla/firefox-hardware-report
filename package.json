@@ -1,7 +1,7 @@
 {
   "name": "firefox-hardware-report",
   "scripts": {
-    "postinstall": "webpack",
+    "postinstall": "webpack -p",
     "start": "node server",
     "local": "webpack-dev-server --progress --hot --content-base static --port 3000",
     "posttest": "npm audit || true"
