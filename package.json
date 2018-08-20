@@ -23,7 +23,7 @@
     "morgan": "1.9.0",
     "node-sass": "4.9.3",
     "resolve-url-loader": "2.3.0",
-    "sass-loader": "7.0.3",
+    "sass-loader": "7.1.0",
     "style-loader": "0.22.1",
     "url-loader": "1.1.1",
     "webpack": "3.12.0",
