@@ -7,7 +7,7 @@
     "posttest": "npm audit || true"
   },
   "dependencies": {
-    "bootstrap-loader": "3.0.0",
+    "bootstrap-loader": "3.0.1",
     "bootstrap-sass": "3.3.7",
     "css-loader": "1.0.0",
     "d3": "4.13.0",
